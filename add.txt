@@ -1,5 +1,0 @@
-insert
-master-insert
-666
-777
-888
